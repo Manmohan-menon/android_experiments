@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/necuser/.android/build-cache/a121718f544a2341b1f17e5a0cb980557910c2dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be628e9ec734bdf10a1eb6e3dca4e145173b9a94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/necuser/.android/build-cache/8dd687c6c50aafc40ad56117da1913443055a3ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23cb759a07afce3ba1782170eaf5b38d5f0eb0ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/necuser/.android/build-cache/df01766de82f33b3b4d3e6dba32e4dfed698d245/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a282d247976c5fcf557e84ae6e28a4b170dae28d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/necuser/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_8e926754ac6c9409dbb464a0e5e096d1fec80bc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/necuser/.android/build-cache/5ddf05f8b8762721354e9aa82fdd0c5da08cd0bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af99a2d1f42713b7ec90b7ce4439d99c97eaae67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/necuser/.android/build-cache/a18e03a8c596d30567ae5303340a7cb0a38f2afb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_edfa5c7c4edcf1bc394d7ae99e240bd3b1b7986e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/necuser/.android/build-cache/32955dd847679f809befece69d2c6e429dd0c6ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f81182a2e6a4c44ed54f88ac03f7cfedc986bd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/necuser/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_df59f18745e1563e6e56195819cecd0f7c0b6301/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8acd96b08490c0e725394c106115e233b35032d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/necuser/.android/build-cache/6829f9cfebada26d16dcd385b5b6d0baa8ab9070/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_007b14db9a9c4f08e5a28ea4f431c7d06b1df3f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/necuser/.android/build-cache/1e13d7efc9796ad1407b82f51fd3fc6c85ddb4ad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9375db124a0aa4ef22bbedb50c451b75d8683f2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="425c7c40997f349704d02d7a559bc40509110482">
+        <dex dex="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f3798b3327d08a819b549e4d1989d13f90280e76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/necuser/.android/build-cache/0acddf7d74e70b4c7156217dd06ca7e70f8ac9bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2be6e8e44dff9524461dcfe0f871d126c57417a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/necuser/.android/build-cache/cc6c14e74af75c894a6eb9d7f443c302920c335d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ba9c5061439117166118c0d1744aca6133dd574/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/necuser/.android/build-cache/ac3357411de26c4ec9a42dd54ae4919307a53983/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_985a1f0593fd2b6e9bb229fc4009003d943e059b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/necuser/.android/build-cache/5bbf1e2df3824c54e6322d7614522164a6b04102/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e7de8ca950f8667aee6ddb1359b3932166de97d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/necuser/.android/build-cache/595050657ec8f38e8c4cfffbb36c2166c8cd49f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/necuser/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_785fcb85dfb6a47e323f5643378e356497d10b80/classes.dex" />
+    </item>
+
+</items>

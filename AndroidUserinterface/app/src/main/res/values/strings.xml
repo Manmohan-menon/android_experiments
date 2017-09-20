@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidUserinterface</string>
+    <string name="button_1">Red</string>
+    <string name="button_2">Orange</string>
+    <string name="button_3">Yellow</string>
+    <string name="button_4">Green</string>
+    <string name="button_5">Blue</string>
+    <string name="button_6">Indigo</string>
+    <string name="button_7">Violet</string>
+
+</resources>
