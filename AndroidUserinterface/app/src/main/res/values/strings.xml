@@ -7,5 +7,10 @@
     <string name="button_5">Blue</string>
     <string name="button_6">Indigo</string>
     <string name="button_7">Violet</string>
-
+    <string name="card_balance">Enter Card Balance($)</string>
+    <string name="interest_rate">Enter Yearly Interest Rate(%)</string>
+    <string name="payment">Minimum Payment</string>
+    <string name="final_balance">Final Card Balance($)</string>
+    <string name="time">Months Remaining</string>
+    <string name="expected_interest_rate">Interest Rate will be (%)</string>
 </resources>
